@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @autoprof
 - 👀 I’m interested in automated teaching
-- 🌱 I’m currently teaching javascript, kotlin, shell, html, css, javafx, git, react.js, react native, php, sql, python, ...
+- 🌱 I’m currently teaching javascript, kotlin, shell, html, css, javafx, git, react.js, react native, php, sql, python, docker, lxd, aws, azure, github, gitlab, ...
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me : autoprof@autoprof.autoprof
 
